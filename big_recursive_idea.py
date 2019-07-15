@@ -1,7 +1,6 @@
-# SET PATH=C:\Users\k\opt\Python27
-# pushd  C:\Users\kyaw_kyaw_nnaing\Desktop
 
-# "Think like a programmer" by . Page 150-155
+
+# "Think like a programmer" by V. Anton Spraul Page 150-155
 
 
 lis1= [1,2,3,4, 50]
